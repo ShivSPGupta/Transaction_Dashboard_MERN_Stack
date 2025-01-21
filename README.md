@@ -13,6 +13,7 @@ Navigate to the backend directory and install the required dependencies:
 
 cd backend
 npm install
+
 2. Install Frontend Dependencies
 Navigate to the frontend directory and install the required dependencies:
 
@@ -21,11 +22,13 @@ npm install
 
 #Run Application
 Running the Application
+
 1. Start the Backend (Express)
 In the server directory, run:
 cd backend
 npm start
 This will start the Express server. By default, it runs on http://localhost:5000.
+
 
 2. Start the Frontend (React)
 In the frontend directory, run:
