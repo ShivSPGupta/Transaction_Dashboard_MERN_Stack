@@ -6,6 +6,7 @@ Make sure you have the following installed:
 
 Node.js (v14 or above)
 npm (Node Package Manager)
+
 #Setting Up the Project
 1. Install Backend Dependencies
 Navigate to the backend directory and install the required dependencies:
